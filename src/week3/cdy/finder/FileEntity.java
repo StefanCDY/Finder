@@ -13,6 +13,7 @@ public class FileEntity {
 	
 	public FileEntity() {
 		// TODO Auto-generated constructor stub
+		
 	}
 	
 	public String getName() {
